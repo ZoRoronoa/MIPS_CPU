@@ -1,0 +1,31 @@
+Wed Mar 25 10:13:21 CST 2020
+Trace back: F:/?ÆËã?ú×é?ÉÓëÉè?Æ/?Æ×é×?Ï?Ñé/ÍøÉÏdownload/ComputeDesign-master/pipemwreg.v not found.
+    while executing
+"GotoDriver {sim:/pipecomp_tb/U_SCCOMP/U_PIPECPU/mw_reg/#ALWAYS#17 sim:/pipecomp_tb/U_SCCOMP/U_PIPECPU/mw_reg/walu F:/?ÆËã?ú×é?ÉÓëÉè?Æ/?Æ×é×?Ï?Ñé/Íø..."
+    ("eval" body line 1)
+    invoked from within
+"eval GotoDriver [list [lindex $DriverList 0]] $args"
+    (procedure "::vsimwidgets::Srcedit::MultipleDriverDialog" body line 28)
+    invoked from within
+"MultipleDriverDialog $sig $DriverList $drivers_or_readers"
+    (procedure "::vsimwidgets::Srcedit::HandleDrivers" body line 77)
+    invoked from within
+"vsimwidgets::Srcedit::HandleDrivers [lindex $sigList 0] $d_or_r"
+    (procedure "_showDFReadersDrivers" line 41)
+    invoked from within
+"_showDFReadersDrivers drivers .main_pane.wave.interior.cs.body.pw.wf 1"
+    ("eval" body line 1)
+    invoked from within
+"eval _showDFReadersDrivers "drivers" $winname $classic $args"
+    (procedure "Wave::ShowDFDrivers" line 2)
+    invoked from within
+"Wave::ShowDFDrivers $top 1"
+    (procedure "Wave::1Up" line 27)
+    invoked from within
+"Wave::1Up $widget $x $y"
+    (procedure "Wave::SelectUp" line 4)
+    invoked from within
+"Wave::SelectUp	 .main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data 579 113 1213 470 "
+    (command bound to event)
+  <2:C:/modeltech64_10.4/win64/tk8.5/bgerror.tcl:92: ::tkerror {F:/?ÆËã?ú×é?ÉÓëÉè?Æ/?Æ×é×?Ï?Ñé/ÍøÉÏdownload/ComputeDesign-master/pipemwreg.v not found.}
+  <1:eval:1: ::tk::dialog::error::bgerror {F:/?ÆËã?ú×é?ÉÓëÉè?Æ/?Æ×é×?Ï?Ñé/ÍøÉÏdownload/ComputeDesign-master/pipemwreg.v not found.}

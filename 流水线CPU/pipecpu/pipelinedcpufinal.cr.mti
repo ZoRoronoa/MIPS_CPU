@@ -1,0 +1,144 @@
+C:/modeltech64_10.4/examples/pipecpu/pipedereg.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipedereg.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipedereg
+
+Top level modules:
+	pipedereg
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipecomp.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipecomp.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipecomp
+
+Top level modules:
+	pipecomp
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/regfile.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\regfile.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/im.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\im.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module im
+
+Top level modules:
+	im
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipecpu.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipecpu.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipecpu
+
+Top level modules:
+	pipecpu
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipepc.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipepc.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipepc
+
+Top level modules:
+	pipepc
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipeir.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipeir.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeir
+
+Top level modules:
+	pipeir
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/dm.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\dm.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dm
+
+Top level modules:
+	dm
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/mux2x5.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\mux2x5.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux2x5
+
+Top level modules:
+	mux2x5
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/mux2x32.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\mux2x32.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux2x32
+
+Top level modules:
+	mux2x32
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/dffe32.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\dffe32.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dffe32
+
+Top level modules:
+	dffe32
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipecomp_tb.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipecomp_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipecomp_tb
+
+Top level modules:
+	pipecomp_tb
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipeidcu.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipeidcu.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeidcu
+
+Top level modules:
+	pipeidcu
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/mux4x32.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\mux4x32.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux4x32
+
+Top level modules:
+	mux4x32
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipeif.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipeif.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeif
+
+Top level modules:
+	pipeif
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipeemreg.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipeemreg.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeemreg
+
+Top level modules:
+	pipeemreg
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipeexe.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipeexe.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipeexe
+
+Top level modules:
+	pipeexe
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/pipemwreg.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\pipemwreg.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pipemwreg
+
+Top level modules:
+	pipemwreg
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/ctrl_encode_def.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\ctrl_encode_def.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/alu.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\alu.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/modeltech64_10.4/examples/pipecpu/HILO.v {1 {vlog -work work -vopt -stats=none {C:\modeltech64_10.4\examples\pipecpu\HILO.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module HILO
+
+Top level modules:
+	HILO
+
+} {} {}}

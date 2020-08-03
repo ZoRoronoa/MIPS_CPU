@@ -1,0 +1,328 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.4/examples/sccpu-final-test
+T_opt
+!s110 1588301320
+VORiLPhgU?oN^Kc]cdneJb0
+04 7 4 work mips_tb fast 0
+=1-1831bf78ea7d-5eab8e08-2dc-1f5c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+vALU
+Z0 !s110 1584759987
+!i10b 1
+!s100 Ek2o@9A_i?7c]K:_=^2?n2
+INCgO:bhd:mz1=Ao_bLV1<1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/modeltech64_10.4/examples/sccpu-final
+w1584759835
+8C:\modeltech64_10.4\examples\alu.v
+FC:\modeltech64_10.4\examples\alu.v
+L0 19
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1584759987.720000
+!s107 ctrl_encode_def.v|C:\modeltech64_10.4\examples\alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\alu.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@l@u
+vCPU
+Z5 !s110 1584759988
+!i10b 1
+!s100 c@ad`?i9L]N7;7;YW5:fR3
+ID>ock^HBUD^4e3CTHW@C>3
+R1
+R2
+w1584759821
+8C:\modeltech64_10.4\examples\sccpu-final\cpu.v
+FC:\modeltech64_10.4\examples\sccpu-final\cpu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1584759988.522000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\cpu.v|
+!i113 0
+R4
+n@c@p@u
+vCTRLUNIT
+R0
+!i10b 1
+!s100 g`G=jJUAFh6=aa0XLj:AU3
+IKWRIeDKJ09cQkNb?O6J_`2
+R1
+R2
+w1584759810
+8C:\modeltech64_10.4\examples\sccpu-final\ctrl.v
+FC:\modeltech64_10.4\examples\sccpu-final\ctrl.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1584759987.795000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\ctrl.v|
+!i113 0
+R4
+n@c@t@r@l@u@n@i@t
+vDM
+R0
+!i10b 1
+!s100 c5L<7E`?MknYE7n0=:f_@0
+IH9jYS;Xo57@@j=hP>>^9T3
+R1
+R2
+w1584759774
+8C:\modeltech64_10.4\examples\sccpu-final\dm.v
+FC:\modeltech64_10.4\examples\sccpu-final\dm.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1584759987.925000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\dm.v|
+!i113 0
+R4
+n@d@m
+vEXT
+R5
+!i10b 1
+!s100 7NPPcL9S:74T^C>F7W_2R2
+I[dI^DgHSQ;zI86OJ?XB:a0
+R1
+R2
+w1584759760
+8C:\modeltech64_10.4\examples\sccpu-final\EXT.v
+FC:\modeltech64_10.4\examples\sccpu-final\EXT.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1584759987.999000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\EXT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\EXT.v|
+!i113 0
+R4
+n@e@x@t
+vIM
+R5
+!i10b 1
+!s100 AiPeY>;W9FURg5QFLn9Ro1
+IZz6olaead^W7niRI=l<6k2
+R1
+R2
+w1584759976
+8C:\modeltech64_10.4\examples\sccpu-final\im.v
+FC:\modeltech64_10.4\examples\sccpu-final\im.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1584759988.593000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\im.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\im.v|
+!i113 0
+R4
+n@i@m
+vMIPS
+R5
+!i10b 1
+!s100 RR<B3a2dZ1>>M`Kn4fW4j1
+IDMZUii9n2;][di6@YeXzn0
+R1
+R2
+w1584759726
+8C:\modeltech64_10.4\examples\sccpu-final\mips.v
+FC:\modeltech64_10.4\examples\sccpu-final\mips.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1584759988.376000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\mips.v|
+!i113 0
+R4
+n@m@i@p@s
+vmips_tb
+!s110 1588301317
+!i10b 1
+!s100 f1PineaOYN>lg=n]gnRT@1
+I4l7KIVMP3:ocO^`XJLk1N1
+R1
+R2
+w1588301313
+8C:\modeltech64_10.4\examples\sccpu-final\mips_tb.v
+FC:\modeltech64_10.4\examples\sccpu-final\mips_tb.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1588301317.165000
+!s107 C:\modeltech64_10.4\examples\sccpu-final\mips_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\mips_tb.v|
+!i113 0
+R4
+vmux16
+R5
+!i10b 1
+!s100 _kD]@DiV[:SJ[]_:lBKV[0
+IW6e6YVVLDEUn291BF7d>b1
+R1
+R2
+Z6 w1584759611
+Z7 8C:\modeltech64_10.4\examples\sccpu-final\mux.v
+Z8 FC:\modeltech64_10.4\examples\sccpu-final\mux.v
+L0 71
+R3
+r1
+!s85 0
+31
+Z9 !s108 1584759988.074000
+Z10 !s107 C:\modeltech64_10.4\examples\sccpu-final\mux.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\sccpu-final\mux.v|
+!i113 0
+R4
+vmux2
+R5
+!i10b 1
+!s100 QXC^TY7h[nMB8eh1LThKL1
+IW][V]_oSINDhO9RGL?nJM2
+R1
+R2
+R6
+R7
+R8
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R4
+vmux4
+R5
+!i10b 1
+!s100 3KQ[c;ZUY31^gKT9SAAk20
+In:UlIMf5f14Mhjc8Q4b5N1
+R1
+R2
+R6
+R7
+R8
+L0 15
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R4
+vmux8
+R5
+!i10b 1
+!s100 FLg[0F=fBIb=LWfFP8G0M0
+IRLg6a;nL[7^APDVlhV8R51
+R1
+R2
+R6
+R7
+R8
+L0 40
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R4
+vNPC
+R5
+!i10b 1
+!s100 f3XhHWG?T1XHaYNFbNkoZ1
+IC12J99l[Oo@8J79Rh[gbT2
+R1
+R2
+w1584759579
+8C:/modeltech64_10.4/examples/sccpu-final/NPC.v
+FC:/modeltech64_10.4/examples/sccpu-final/NPC.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1584759988.155000
+!s107 ctrl_encode_def.v|C:/modeltech64_10.4/examples/sccpu-final/NPC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.4/examples/sccpu-final/NPC.v|
+!i113 0
+R4
+n@n@p@c
+vPC
+R5
+!i10b 1
+!s100 lM7N@gR;4fMz]3L;mLgJ<2
+IQYT5zP2cf_3S::J[25IS40
+R1
+R2
+w1584759558
+8C:/modeltech64_10.4/examples/sccpu-final/PC.v
+FC:/modeltech64_10.4/examples/sccpu-final/PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1584759988.231000
+!s107 C:/modeltech64_10.4/examples/sccpu-final/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.4/examples/sccpu-final/PC.v|
+!i113 0
+R4
+n@p@c
+vRF
+R5
+!i10b 1
+!s100 ^]931kgSZZ:bgN_aiYMbJ2
+INM[]VjhDLPaKO:kzf^zMF0
+R1
+R2
+w1584759545
+8C:/modeltech64_10.4/examples/sccpu-final/RF.v
+FC:/modeltech64_10.4/examples/sccpu-final/RF.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1584759988.304000
+!s107 C:/modeltech64_10.4/examples/sccpu-final/RF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.4/examples/sccpu-final/RF.v|
+!i113 0
+R4
+n@r@f

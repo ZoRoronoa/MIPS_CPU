@@ -1,0 +1,479 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.4/examples/sccpu-final
+T_opt
+!s110 1588406323
+V_g6E;8S[o>;8UMFQ_D[kI3
+04 11 4 work pipecomp_tb fast 0
+=1-1831bf78ea7d-5ead2832-d5-2520
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+valu
+Z0 !s110 1588406235
+!i10b 1
+!s100 QCEilHfY04;?_goW5H?2i0
+I<Z^29i]8;DS`j`MU7EZ0B0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/modeltech64_10.4/examples/pipecpu
+w1588406177
+8C:\modeltech64_10.4\examples\pipecpu\alu.v
+FC:\modeltech64_10.4\examples\pipecpu\alu.v
+L0 21
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1588406235.355000
+!s107 ctrl_encode_def.v|C:\modeltech64_10.4\examples\pipecpu\alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\alu.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdffe32
+R0
+!i10b 1
+!s100 lY@gOV8ojA8li7Zc>4@6?1
+IWKcfKJ`?HK7Jj@3IMJ[7F2
+R1
+R2
+w1588406153
+8C:\modeltech64_10.4\examples\pipecpu\dffe32.v
+FC:\modeltech64_10.4\examples\pipecpu\dffe32.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406235.544000
+!s107 C:\modeltech64_10.4\examples\pipecpu\dffe32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\dffe32.v|
+!i113 0
+R4
+vdffe32_tb
+!s110 1588301798
+!i10b 1
+!s100 SeY2_M3]`8A06e[:S;CVE1
+I<dFH^1_1CUW6]TH`6@87F3
+R1
+R2
+Z5 w1556028467
+8F:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/dffe32_tb.v
+FF:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/dffe32_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588301798.229000
+!s107 F:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/dffe32_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/dffe32_tb.v|
+!i113 0
+R4
+vdm
+R0
+!i10b 1
+!s100 @lKg3BGj5``Y2W[glZ^332
+I18e2md58UjlTKEgSkEk0l0
+R1
+R2
+w1588406129
+8C:\modeltech64_10.4\examples\pipecpu\dm.v
+FC:\modeltech64_10.4\examples\pipecpu\dm.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1588406235.635000
+!s107 C:\modeltech64_10.4\examples\pipecpu\dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\dm.v|
+!i113 0
+R4
+vHILO
+R0
+!i10b 1
+!s100 f9nfcV0zYI_S282@6Yb[N3
+IFY[6TFX>ePbVDUf8L[9SI2
+R1
+R2
+w1588406117
+8C:\modeltech64_10.4\examples\pipecpu\HILO.v
+FC:\modeltech64_10.4\examples\pipecpu\HILO.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406235.726000
+!s107 C:\modeltech64_10.4\examples\pipecpu\HILO.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\HILO.v|
+!i113 0
+R4
+n@h@i@l@o
+vim
+R0
+!i10b 1
+!s100 ;`a7WeAidTYCmk[@T:@E[0
+IfQRQU^nOH2T@3n^OldbFh2
+R1
+R2
+w1588406107
+8C:\modeltech64_10.4\examples\pipecpu\im.v
+FC:\modeltech64_10.4\examples\pipecpu\im.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1588406235.819000
+!s107 C:\modeltech64_10.4\examples\pipecpu\im.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\im.v|
+!i113 0
+R4
+vmux2x32
+Z6 !s110 1588406236
+!i10b 1
+!s100 ZNNzTi@SR3i0W6ea:98Mj3
+Ib8;E^gjA4ndAFM=j4?N3>2
+R1
+R2
+w1588406078
+8C:\modeltech64_10.4\examples\pipecpu\mux2x32.v
+FC:\modeltech64_10.4\examples\pipecpu\mux2x32.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406236.003000
+!s107 C:\modeltech64_10.4\examples\pipecpu\mux2x32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\mux2x32.v|
+!i113 0
+R4
+vmux2x5
+R0
+!i10b 1
+!s100 [W`KQPYE9Z=<KlmZ@57;92
+IzRKgTE@9:4]1@ViZM]]fF3
+R1
+R2
+w1588406086
+8C:\modeltech64_10.4\examples\pipecpu\mux2x5.v
+FC:\modeltech64_10.4\examples\pipecpu\mux2x5.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406235.910000
+!s107 C:\modeltech64_10.4\examples\pipecpu\mux2x5.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\mux2x5.v|
+!i113 0
+R4
+vmux4x32
+R6
+!i10b 1
+!s100 kXNCKb3X>8od]`8b_8IK<2
+IRA6dInn?5LcAoXcC5IoAz0
+R1
+R2
+w1588406065
+8C:\modeltech64_10.4\examples\pipecpu\mux4x32.v
+FC:\modeltech64_10.4\examples\pipecpu\mux4x32.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406236.095000
+!s107 C:\modeltech64_10.4\examples\pipecpu\mux4x32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\mux4x32.v|
+!i113 0
+R4
+vpipecomp
+R6
+!i10b 1
+!s100 EH1b:z;B9<zZMeZ>@D2@S3
+IB4YazW5Fdn0fiK<84i>[k0
+R1
+R2
+w1588406040
+8C:\modeltech64_10.4\examples\pipecpu\pipecomp.v
+FC:\modeltech64_10.4\examples\pipecpu\pipecomp.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406236.279000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipecomp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipecomp.v|
+!i113 0
+R4
+vpipecomp_tb
+R6
+!i10b 1
+!s100 c8S<SeJma1Sd28Mo2dX1>3
+Iz>P9TTKYinIV2:5GUW[f30
+R1
+R2
+w1588406020
+8C:\modeltech64_10.4\examples\pipecpu\pipecomp_tb.v
+FC:\modeltech64_10.4\examples\pipecpu\pipecomp_tb.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1588406236.370000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipecomp_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipecomp_tb.v|
+!i113 0
+R4
+vpipecpu
+R6
+!i10b 1
+!s100 DIhCAV0JE^S40VQonb87S2
+IOIQj>^d3XRGW1Fk;7BhiX2
+R1
+R2
+w1588405967
+8C:\modeltech64_10.4\examples\pipecpu\pipecpu.v
+FC:\modeltech64_10.4\examples\pipecpu\pipecpu.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406236.187000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipecpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipecpu.v|
+!i113 0
+R4
+vpipedereg
+R6
+!i10b 1
+!s100 7GGBjE`2iNX5S0IlM;ikQ0
+I0b>gHkd^i=PYQCIzlaXHU2
+R1
+R2
+w1588405947
+8C:\modeltech64_10.4\examples\pipecpu\pipedereg.v
+FC:\modeltech64_10.4\examples\pipecpu\pipedereg.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406236.551000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipedereg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipedereg.v|
+!i113 0
+R4
+vpipeemreg
+R6
+!i10b 1
+!s100 Id8QPYjC=<ZaIgz9VRdRU3
+I=3GMAXTRM;UFEWlG28nBj2
+R1
+R2
+w1588405932
+8C:\modeltech64_10.4\examples\pipecpu\pipeemreg.v
+FC:\modeltech64_10.4\examples\pipecpu\pipeemreg.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406236.642000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipeemreg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipeemreg.v|
+!i113 0
+R4
+vpipeexe
+R6
+!i10b 1
+!s100 mnjmHmE<UgbPbHkcaTjaV2
+I;=m`j7DWh1XXe:_e=Kzb]0
+R1
+R2
+w1588405904
+8C:\modeltech64_10.4\examples\pipecpu\pipeexe.v
+FC:\modeltech64_10.4\examples\pipecpu\pipeexe.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406236.731000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipeexe.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipeexe.v|
+!i113 0
+R4
+vpipeid
+!s110 1588406311
+!i10b 1
+!s100 Tccl=ZLi=G>JaLB4Y<I:S3
+I[zIV3O3RG@Qfdl?5[]Y413
+R1
+R2
+w1588406305
+8C:\modeltech64_10.4\examples\pipecpu\pipeid.v
+FC:\modeltech64_10.4\examples\pipecpu\pipeid.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406311.903000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipeid.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipeid.v|
+!i113 0
+R4
+vpipeidcu
+R6
+!i10b 1
+!s100 Z@Fd<FP2aB[TLaj6zQIaC0
+Ij?W]_g@B`P98i``DYR>bI1
+R1
+R2
+w1588405836
+8C:\modeltech64_10.4\examples\pipecpu\pipeidcu.v
+FC:\modeltech64_10.4\examples\pipecpu\pipeidcu.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406236.913000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipeidcu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipeidcu.v|
+!i113 0
+R4
+vpipeif
+Z7 !s110 1588406237
+!i10b 1
+!s100 H9TKH5083T7H=NMia2;]N2
+IBk3@]>Nl]9<22Tl`9cZiH2
+R1
+R2
+w1588405805
+8C:\modeltech64_10.4\examples\pipecpu\pipeif.v
+FC:\modeltech64_10.4\examples\pipecpu\pipeif.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406237.006000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipeif.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipeif.v|
+!i113 0
+R4
+vpipeir
+R7
+!i10b 1
+!s100 TE1___k8gCVB]O0EP>N4j1
+IbNnM;<=hPB4nhnXTi4U7A2
+R1
+R2
+w1588405765
+8C:\modeltech64_10.4\examples\pipecpu\pipeir.v
+FC:\modeltech64_10.4\examples\pipecpu\pipeir.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406237.100000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipeir.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipeir.v|
+!i113 0
+R4
+vpipemwreg
+R6
+!i10b 1
+!s100 UXPVj[el;6Y8^=4IA`=fj3
+InA9_8di9IQQ`Q2_fo_:W[2
+R1
+R2
+w1588405740
+8C:\modeltech64_10.4\examples\pipecpu\pipemwreg.v
+FC:\modeltech64_10.4\examples\pipecpu\pipemwreg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406236.460000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipemwreg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipemwreg.v|
+!i113 0
+R4
+vpipepc
+R7
+!i10b 1
+!s100 S33oCk?D@O;[oHDCQZK`b1
+I8;8`gI6JB;l?8iN;4ZAoO0
+R1
+R2
+w1588405707
+8C:\modeltech64_10.4\examples\pipecpu\pipepc.v
+FC:\modeltech64_10.4\examples\pipecpu\pipepc.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588406237.188000
+!s107 C:\modeltech64_10.4\examples\pipecpu\pipepc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\pipepc.v|
+!i113 0
+R4
+vregfile
+R7
+!i10b 1
+!s100 Ji29M0^<V4O35>;ZLHGkK3
+I__1EP5e^2bB;jYSEGR79N1
+R1
+R2
+w1588405673
+8C:\modeltech64_10.4\examples\pipecpu\regfile.v
+FC:\modeltech64_10.4\examples\pipecpu\regfile.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1588406237.279000
+!s107 C:\modeltech64_10.4\examples\pipecpu\regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\modeltech64_10.4\examples\pipecpu\regfile.v|
+!i113 0
+R4
+vshift
+!s110 1588301800
+!i10b 1
+!s100 UZY=QXaL9412Ml:ShY6VL0
+I8<jI6LO403G17bh_Z<9GT0
+R1
+R2
+R5
+8F:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/shift.v
+FF:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/shift.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1588301800.046000
+!s107 F:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/shift.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/计算机组成与设计/计组综合实验/网上download/ComputeDesign-master/shift.v|
+!i113 0
+R4
